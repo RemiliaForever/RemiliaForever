@@ -51,6 +51,8 @@ This is [RemiliaForever](https://blog.koumakan.cc)
   <img width="12" />
   <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg" height="40" alt="ffmpeg log"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
