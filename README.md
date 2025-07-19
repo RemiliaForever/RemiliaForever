@@ -10,7 +10,7 @@ This is [RemiliaForever](https://blog.koumakan.cc)
 
 - 🔭 I’m working as a backend developer focusing on edge computing
 - 📚 I'm currently learning game development with [Bevy](https://bevy.org/)
-- ⚡ In my free time I enjoy watching anime, gaming, and exploring new tech.
+- ⚡ In my free time I enjoy watching anime, gaming, and exploring new tech
 
 ###
 
