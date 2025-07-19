@@ -1,4 +1,4 @@
-### 👋 hey there, This is [RemiliaForever](https://blog.koumakan.cc)
+### 👋 hey there, This is RemiliaForever
 
 - 🔭 I’m working as a backend developer focusing on edge computing
 - 📚 I'm currently learning game development with [Bevy](https://bevy.org/)
