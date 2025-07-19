@@ -1,12 +1,4 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-This is [RemiliaForever](https://blog.koumakan.cc)
+### 👋 hey there, This is [RemiliaForever](https://blog.koumakan.cc)
 
 - 🔭 I’m working as a backend developer focusing on edge computing
 - 📚 I'm currently learning game development with [Bevy](https://bevy.org/)
@@ -35,15 +27,14 @@ This is [RemiliaForever](https://blog.koumakan.cc)
   <img width="12" />
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/25221711?s=200&v=4" height="40" alt="emqx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -55,9 +46,6 @@ This is [RemiliaForever](https://blog.koumakan.cc)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
