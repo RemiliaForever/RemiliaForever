@@ -80,10 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RemiliaForever/RemiliaForever/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/jwoa1eselipbn5t0rzyiuh8w4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jwoa1eselipbn5t0rzyiuh8w4&count=3&unique=true" alt="Spotify recently played"  />
