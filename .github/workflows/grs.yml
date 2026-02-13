@@ -15,11 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
+          options: "username=${{ github.repository_owner }}&theme=flat&row=1&margin-w=5&margin-h=5&no-bg=true"
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card
