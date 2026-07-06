@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="99.09"
+          width="99.1"
           height="8"
           fill="#7e7eff"
         />
@@ -124,7 +124,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="99.09"
+          x="99.1"
           y="0"
           width="59.11"
           height="8"
@@ -134,7 +134,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="158.2"
+          x="158.20999999999998"
           y="0"
           width="39.11"
           height="8"
@@ -144,7 +144,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="197.31"
+          x="197.32"
           y="0"
           width="23.81"
           height="8"
@@ -154,7 +154,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="221.12"
+          x="221.13"
           y="0"
           width="10.2"
           height="8"
@@ -164,7 +164,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.32"
+          x="231.32999999999998"
           y="0"
           width="18.42"
           height="8"
@@ -174,7 +174,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.73999999999998"
+          x="239.74999999999997"
           y="0"
           width="16.46"
           height="8"
@@ -184,7 +184,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.2"
+          x="246.20999999999998"
           y="0"
           width="13.8"
           height="8"
@@ -239,7 +239,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 2.59%
+        Shell 2.58%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
